@@ -1,7 +1,8 @@
 # Práctica de Estructuras de Datos: Árboles (C++ y Java)
-> **Universidad Técnica de Ambato (UTA)** > **Asignatura:** Estructura de Datos  
+> **Universidad Técnica de Ambato (UTA)** 
+> **Asignatura:** Estructura de Datos  
 > **Autor:** Jair León
-> **Docente: ** Ing.Jose Caiza, Mg.
+> **Docente:** Ing.Jose Caiza, Mg.
 > **APE 3**
 
 Este repositorio contiene la resolución de los ejercicios prácticos enfocados en la implementación y manipulación de estructuras de datos no lineales (Árboles N-arios y Árboles Binarios). 
