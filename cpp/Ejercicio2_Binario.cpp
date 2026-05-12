@@ -18,7 +18,7 @@ Nodo* insertar(Nodo* raiz, int valor) {
     return raiz;
 }
 
-int main2() {
+int main() {
     Nodo* raiz = new Nodo(10);
     insertar(raiz, 5);
     insertar(raiz, 15);

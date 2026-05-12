@@ -13,7 +13,7 @@ int calcularAltura(Nodo* raiz) {
     return 1 + std::max(calcularAltura(raiz->izquierdo), calcularAltura(raiz->derecho));
 }
 
-int main3() {
+int main() {
     Nodo* raiz = new Nodo(1);
     raiz->derecho = new Nodo(2);
     raiz->derecho->izquierdo = new Nodo(3);

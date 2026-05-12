@@ -16,7 +16,7 @@ int contarNodos(NodoN* raiz) {
     return total;
 }
 
-int main1() {
+int main() {
     NodoN* n5 = new NodoN(5);
     NodoN* n6 = new NodoN(6);
     NodoN* n2 = new NodoN(2);

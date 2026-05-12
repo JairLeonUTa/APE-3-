@@ -21,7 +21,7 @@ std::vector<int> recorridoInOrder(Nodo* raiz) {
     return resultado;
 }
 
-int main4() {
+int main() {
     Nodo* raiz = new Nodo(4);
     raiz->izquierdo = new Nodo(2);
     raiz->derecho = new Nodo(6);
